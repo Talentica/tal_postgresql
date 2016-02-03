@@ -18,7 +18,7 @@ A postgresql installation cookbook that addresses the issue of server password s
 ###Usage
 On systems that should be PostgreSQL servers, use recipe[postgresql::server] on a run list.
 
-License and Author
+###License and Author
 
     Author:: Talentica/shantanupanda
     
